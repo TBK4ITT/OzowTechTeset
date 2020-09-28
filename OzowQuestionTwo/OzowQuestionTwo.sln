@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzowQuestionTwo", "OzowQuestionTwo\OzowQuestionTwo.csproj", "{0DD86F3A-4A69-46E9-A706-33141D8B9C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzowQuestionTwoUnitTest", "OzowQuestionTwoUnitTest\OzowQuestionTwoUnitTest.csproj", "{1FADC8EC-ECC4-4911-9DC0-9874CAE8320A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD86F3A-4A69-46E9-A706-33141D8B9C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD86F3A-4A69-46E9-A706-33141D8B9C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD86F3A-4A69-46E9-A706-33141D8B9C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD86F3A-4A69-46E9-A706-33141D8B9C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FADC8EC-ECC4-4911-9DC0-9874CAE8320A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FADC8EC-ECC4-4911-9DC0-9874CAE8320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FADC8EC-ECC4-4911-9DC0-9874CAE8320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FADC8EC-ECC4-4911-9DC0-9874CAE8320A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9687D214-5A2E-4F5F-BB60-3FF6077E1379}
+	EndGlobalSection
+EndGlobal

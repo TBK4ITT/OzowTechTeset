@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzowQuestionOne", "OzowQuestionOne\OzowQuestionOne.csproj", "{9F883E15-A97F-4EBA-838B-43CAA52CF96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzowQuestionOneUnitTest", "OzowQuestionOneUnitTest\OzowQuestionOneUnitTest.csproj", "{81D5B123-E6C2-45E7-8303-25681A534500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F883E15-A97F-4EBA-838B-43CAA52CF96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F883E15-A97F-4EBA-838B-43CAA52CF96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F883E15-A97F-4EBA-838B-43CAA52CF96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F883E15-A97F-4EBA-838B-43CAA52CF96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D5B123-E6C2-45E7-8303-25681A534500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D5B123-E6C2-45E7-8303-25681A534500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D5B123-E6C2-45E7-8303-25681A534500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D5B123-E6C2-45E7-8303-25681A534500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F47DB5E-6DAF-44EB-B60B-3C693B51DD33}
+	EndGlobalSection
+EndGlobal
